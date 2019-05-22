@@ -1,5 +1,6 @@
 # TimeTell
 A component for LiveSplit ( https://livesplit.org/ )  
+Inspired by the PBchance component ( https://github.com/SethBling/PBChance )  
 
 ## What it is:
 TL;DR: It shows what time you should aim for when trying to PB  
