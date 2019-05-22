@@ -2,6 +2,7 @@
 A component for LiveSplit ( https://livesplit.org/ )  
 
 ## What it is:
+TL;DR: It shows what time you should aim for when trying to PB  
 When trying to set a new personal best, you probably often reset/retry in a middle of a run when you FEEL it's better to retry than to continue on a bad run.  
 This component will try to calculate when it's ACTUALLY worth to reset, based on your split history.
 
